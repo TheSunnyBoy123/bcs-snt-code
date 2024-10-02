@@ -1,0 +1,6 @@
+pandas
+librosa
+tensorflow
+numpy
+scikit-learn
+xgboost
